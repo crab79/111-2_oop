@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class A1091106_0513_1 {
+public class A1091106_0512_1 {
     private static int porkDumplings = 5000;
     private static int beefDumplings = 3000;
     private static int veggieDumplings = 1000;
